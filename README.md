@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently a student at VIT, Vellore
 - 🌱 I’m currently persuing B.Tech CSE(CyberSecurity)
